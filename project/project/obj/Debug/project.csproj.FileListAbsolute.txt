@@ -1,0 +1,24 @@
+C:\GeekSmart\project\project\obj\Debug\project.csprojAssemblyReference.cache
+C:\GeekSmart\project\project\obj\Debug\project.Properties.Resources.resources
+C:\GeekSmart\project\project\obj\Debug\project.csproj.GenerateResource.cache
+C:\GeekSmart\project\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\GeekSmart\project\project\obj\Debug\project.FormMain.resources
+C:\GeekSmart\Project\project\obj\Debug\project.FormHome.resources
+C:\GeekSmart\Project\project\obj\Debug\project.FormClientes.resources
+C:\GeekSmart\Project\project\obj\Debug\project.FormVendas.resources
+C:\GeekSmart\Project\project\obj\Debug\project.FormProdutos.resources
+C:\GeekSmart\Project\project\obj\Debug\project.FormEmpre.resources
+C:\GeekSmart\Project\project\obj\Debug\project.FormEmpreVisu.resources
+C:\GeekSmart\Project\project\obj\Debug\project.FormEmpreAlt.resources
+C:\GeekSmart\Project\project\obj\Debug\project.FormClientesAlt.resources
+C:\GeekSmart\Project\project\obj\Debug\project.FormClientesVisu.resources
+C:\GeekSmart\Project\project\obj\Debug\project.FormProdutosVisu.resources
+C:\GeekSmart\Project\project\obj\Debug\project.FormProdutosAlt.resources
+C:\GeekSmart\Project\project\obj\Debug\project.FormVendasVisu.resources
+C:\GeekSmart\Project\project\obj\Debug\project.FormVendasAlt.resources
+C:\GeekSmart\Project\project\obj\Debug\project.FormAbout.resources
+C:\GeekSmart\Project\project\bin\Debug\Gestor de Lojas.exe.config
+C:\GeekSmart\Project\project\bin\Debug\Gestor de Lojas.exe
+C:\GeekSmart\Project\project\bin\Debug\Gestor de Lojas.pdb
+C:\GeekSmart\Project\project\obj\Debug\Gestor de Lojas.exe
+C:\GeekSmart\Project\project\obj\Debug\Gestor de Lojas.pdb
