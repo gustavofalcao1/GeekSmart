@@ -1,9 +1,8 @@
 =================	Gestor de Lojas      ===================
 	
-	Para o bom funcionamento do programa, deve-se
-	deixar a pasta GeekSmart no diretorio C:\
-	e não alterar o nome de nehuma pasta ou arquivo
-	que la se encontra.
+	Para rodar a versão do programa .exe, já compilado que se encontra na pasta, deve-se:
+	- Renomear a pasta para "GeekSmart" e copiar para o C:\
+	- Não alterar o nome de nehuma pasta ou arquivo la dentro.
 
 	1 - Execute o Gestor de Lojas.exe
 	2 - Explore todas as funçoes disponíveis
