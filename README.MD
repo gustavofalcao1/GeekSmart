@@ -11,8 +11,8 @@ Are you starting your business? Or even have some time in the market but don't k
 	- Run GeekSmart.exe
 
 ## Screen Shots
-![geeksmart](./print/1.png)
-![geeksmart](./print/2.png)
-![geeksmart](./print/3.png)
-![geeksmart](./print/4.png)
-![geeksmart](./print/5.png)
+![geeksmart](./screenshot/1.png)
+![geeksmart](./screenshot/2.png)
+![geeksmart](./screenshot/3.png)
+![geeksmart](./screenshott/4.png)
+![geeksmart](./screenshot/5.png)
