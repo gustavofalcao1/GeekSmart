@@ -14,5 +14,5 @@ Are you starting your business? Or even have some time in the market but don't k
 ![geeksmart](./screenshot/1.png)
 ![geeksmart](./screenshot/2.png)
 ![geeksmart](./screenshot/3.png)
-![geeksmart](./screenshott/4.png)
+![geeksmart](./screenshot/4.png)
 ![geeksmart](./screenshot/5.png)
