@@ -27,14 +27,11 @@ Follow these steps to run the pre-compiled `.exe` application:
 ---
 
 ## 📸 Screenshots
-
-| Main Interface | Data Input | Reports |
-|----------------|------------|---------|
-| ![Screen 1](./screenshot/1.png) | ![Screen 2](./screenshot/2.png) | ![Screen 3](./screenshot/3.png) |
-
-| Analytics | Settings |
-|-----------|----------|
-| ![Screen 4](./screenshot/4.png) | ![Screen 5](./screenshot/5.png) |
+![Screen 1](./screenshot/1.png)
+![Screen 2](./screenshot/2.png)
+![Screen 3](./screenshot/3.png)
+![Screen 4](./screenshot/4.png)
+![Screen 5](./screenshot/5.png)
 
 ---
 
